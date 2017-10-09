@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b042aec2-0335-4266-be95-f29206c4f0f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bg_gold_touzhu": {
+      "ver": "1.0.3",
+      "uuid": "88269712-090c-4c73-b713-a0aed9d3e3f3",
+      "rawTextureUuid": "b042aec2-0335-4266-be95-f29206c4f0f6",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 141,
+      "height": 103,
+      "rawWidth": 141,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
